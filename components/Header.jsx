@@ -11,7 +11,7 @@ const Header = () => {
                     alt="Logo"
                     width={180}
                 />
-                <button className="flex items-center gap-2 font-medium py-1 px-3 sm:py-3 sm:px-6 bg-[#2980b9] text-[#ecf0f1] rounded-md cursor-pointer hover:text-[#2980b9] hover:border hover:border-[#2980b9] hover:bg-transparent duration-500">Get Started</button>
+                <button className="font-medium py-1 px-3 sm:py-3 sm:px-6 bg-[#2980b9] text-[#ecf0f1] rounded-md cursor-pointer hover:text-[#2980b9] hover:border hover:border-[#2980b9] hover:bg-transparent duration-500">Get Started</button>
             </div>
             <div className="text-center my-8">
                 <h1 className="text-3xl sm:text-5xl font-medium">Latest Blogs</h1>
